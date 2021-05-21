@@ -237,8 +237,8 @@
     }
     .container1{
         width: 90%;
-        height: 650px;
-        background-image: url("https://github.com/Kopetan1/pzis20-v.zhezhera/tree/main/img/about.jpg");
+        height: 650px; 
+        background-image: url("'../img/about.jpg");
         background-size: 60%;
         background-repeat: no-repeat;
     }
