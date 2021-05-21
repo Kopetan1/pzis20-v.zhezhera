@@ -245,7 +245,7 @@
 	 .container0{
         width: 50%;
         height: 400px;
-        background-image: url("C:/Users/Vova/Desktop/Веб-тех/Лаб3/var05/img/Melina.jpg");
+        background-image: url("https://github.com/Kopetan1/pzis20-v.zhezhera/tree/main/img/Melina.jpg");
         background-size: 50%;
         background-repeat: no-repeat;
 		float: left;
@@ -255,14 +255,14 @@
 	 .container2{
         width: 50%;
         height: 400px;
-        background-image: url("C:/Users/Vova/Desktop/Веб-тех/Лаб3/var05/img/about.jpg");
+        background-image: url("https://github.com/Kopetan1/pzis20-v.zhezhera/tree/main/img/about.jpg");
         background-size: 60%;
         background-repeat: no-repeat;
     }
 	.container3{
         width: 70%;
         height: 280px;
-        background-image: url("C:/Users/Vova/Desktop/Веб-тех/Лаб3/var05/img/blog.png");
+        background-image: url("https://github.com/Kopetan1/pzis20-v.zhezhera/tree/main/img/blog.png");
         background-size: 65%;
         background-repeat: no-repeat;
 		padding-top: 100px;
@@ -273,7 +273,7 @@
         height: 300px;
         background-size: 100%;
         background-repeat: no-repeat;
-		background: linear-gradient( rgba(255, 255, 255, 0.8), rgba(1, 0, 0, 0.5) ), url("C:/Users/Vova/Desktop/Веб-тех/Лаб3/var05/img/back.jpg");
+		background: linear-gradient( rgba(255, 255, 255, 0.8), rgba(1, 0, 0, 0.5) ), url("https://github.com/Kopetan1/pzis20-v.zhezhera/tree/main/img/back.jpg");
 	background-attachment: fixed;
 	background-position: top;
     }
@@ -282,7 +282,7 @@
         height: 850px;
         background-size: 100%;
         background-repeat: no-repeat;
-		background: linear-gradient( rgba(255, 255, 255, 0.8), rgba(1, 0, 0, 0.5) ), url("C:/Users/Vova/Desktop/Веб-тех/Лаб3/var05/img/back.jpg");
+		background: linear-gradient( rgba(255, 255, 255, 0.8), rgba(1, 0, 0, 0.5) ), url("https://github.com/Kopetan1/pzis20-v.zhezhera/tree/main/img/back.jpg");
 	background-attachment: fixed;
 	background-position: top;
     }
